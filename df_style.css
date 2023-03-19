@@ -22,5 +22,21 @@ p {
 	font-size:16px;
 }
 p.center {
-	text-align:center
+	text-align:center;
+}
+a:link {
+	text-decoration:none;
+	color:#2e5343;
+}
+a:visited {
+	text-decoration:none;
+	color:#1b3228;
+}
+a:hover {
+	text-decoration:underline;
+	color:#c95762;
+}
+a:active {
+	text-decoration:underline;
+	color:#ce6872;
 }
