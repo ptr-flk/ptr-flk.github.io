@@ -1,5 +1,5 @@
 body {
-	background-color:#2596be;
+	background-color:#3a6fa5;
 }
 h1 {
 	text-align:center;
@@ -19,6 +19,7 @@ div {
 	background-color:rgba(255,255,255,0.5);
 }
 p {
+	font-family:"Consolas";
 	font-size:16px;
 }
 p.center {
@@ -26,17 +27,17 @@ p.center {
 }
 a:link {
 	text-decoration:none;
-	color:#2e5343;
+	color:#123456;
 }
 a:visited {
 	text-decoration:none;
-	color:#1b3228;
+	color:#234567;
 }
 a:hover {
 	text-decoration:underline;
-	color:#c95762;
+	color:#abcdef;
 }
 a:active {
 	text-decoration:underline;
-	color:#ce6872;
+	color:#ff6030;
 }
